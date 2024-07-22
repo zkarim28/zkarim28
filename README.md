@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zarif</h1>
 <h3 align="center">Electrical and computer engineering student at Cornell University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zkarim28&label=Profile%20views&color=0e75b6&style=flat" alt="zkarim28" /> </p>
-
 - 🌱 I’m currently learning **Embedded Systems, Data Science, Circuits, and Probability and Inference**
 
 - 👨‍💻 All of my projects are available at [https://github.com/zkarim28](https://github.com/zkarim28)
