@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zarif</h1>
 <h3 align="center">Electrical and computer engineering student at Cornell University</h3>
 
-- 🌱 I’m currently learning **Embedded Systems, Data Science, Circuits, and Probability and Inference**
-
 - 👨‍💻 All of my projects are available at [https://github.com/zkarim28](https://github.com/zkarim28)
 
 - 📫 How to reach me **zarifkarim9@gmail.com**
