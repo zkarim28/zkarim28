@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zarif</h1>
 <h3 align="center">Electrical and computer engineering student at Cornell University</h3>
+<h2 align="center">B.S. & M.Eng. in ECE</h2>
 
 - 👨‍💻 All of my projects are available at [https://github.com/zkarim28](https://github.com/zkarim28)
 
