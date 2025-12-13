@@ -4,7 +4,7 @@
 
 - Currently learning: Memory-Centric Computing, Hardware Acceleration via FPGA, Advanced Computer Architecture
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SpiCDfnJLn2UF_yxPyljyXKV1Ht9PYCQ/view?usp=sharing](https://drive.google.com/file/d/1SpiCDfnJLn2UF_yxPyljyXKV1Ht9PYCQ/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/1SpiCDfnJLn2UF_yxPyljyXKV1Ht9PYCQ/view?usp=sharing](https://drive.google.com/file/d/1SpiCDfnJLn2UF_yxPyljyXKV1Ht9PYCQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
