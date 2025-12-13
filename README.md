@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zarif</h1>
 <h3 align="center">Electrical and computer engineering student at Cornell University</h3>
-<h2 align="center">B.S. & M.Eng. in ECE</h2>
+<h2 align="center">B.S. + M.Eng. in ECE</h2>
 
-- 👨‍💻 All of my projects are available at [https://github.com/zkarim28](https://github.com/zkarim28)
-
-- 📫 How to reach me **zarifkarim9@gmail.com**
+- Currently learning: Memory-Centric Computing, Hardware Acceleration via FPGA, Advanced Computer Architecture
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1SpiCDfnJLn2UF_yxPyljyXKV1Ht9PYCQ/view?usp=sharing](https://drive.google.com/file/d/1SpiCDfnJLn2UF_yxPyljyXKV1Ht9PYCQ/view?usp=sharing)
 
