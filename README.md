@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zarif</h1>
-<h3 align="center">Major: Electrical and Computer Engineering student at Cornell University</h3>
+<h3 align="center">Major: Electrical and Computer Engineering</h3>
 <h3 align="center">School: Cornell University</h3>
 <h2 align="center">M.Eng./B.S. in ECE</h2>
 
