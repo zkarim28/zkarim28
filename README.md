@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zarif</h1>
 <h3 align="center">Electrical and computer engineering student at Cornell University</h3>
-<h2 align="center">B.S. + M.Eng. in ECE</h2>
+<h2 align="center">M.Eng./B.S. in ECE</h2>
 
 - Currently learning: Digital ASIC Design, Memory-Centric Computing, & Hardware Acceleration via FPGA
 
