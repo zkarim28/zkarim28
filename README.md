@@ -2,7 +2,7 @@
 <h3 align="center">Electrical and computer engineering student at Cornell University</h3>
 <h2 align="center">B.S. + M.Eng. in ECE</h2>
 
-- Currently learning: Memory-Centric Computing, Hardware Acceleration via FPGA, Advanced Computer Architecture
+- Currently learning: Digital ASIC Design, Memory-Centric Computing, & Hardware Acceleration via FPGA
 
 - 📄 <a href="https://drive.google.com/file/d/1SpiCDfnJLn2UF_yxPyljyXKV1Ht9PYCQ/view?usp=sharing" target="_blank">Resume</a>
 
