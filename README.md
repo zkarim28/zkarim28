@@ -3,7 +3,7 @@
 <h3 align="center">School: Cornell University</h3>
 <h2 align="center">M.Eng./B.S. in ECE</h2>
 
-- Currently learning: Digital ASIC Design, Memory-Centric Computing, & Hardware Acceleration via FPGA
+- Knowledge in: Digital ASIC Design, Memory-Centric Computing, & Hardware Acceleration via FPGA
 
 - 📄 <a href="https://drive.google.com/file/d/1SpiCDfnJLn2UF_yxPyljyXKV1Ht9PYCQ/view?usp=sharing" target="_blank">Resume</a>
 
